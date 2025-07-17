@@ -1,3 +1,5 @@
 # labs
 
-tecnología, herramientas y recursos gratuitos.
+de los creadores de dataprecio.
+
+#UnaMejorData
